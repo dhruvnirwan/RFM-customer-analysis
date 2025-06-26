@@ -7,7 +7,7 @@ This project explores customer purchasing behavior using the UCI Online Retail d
 ## 🗂️ Dataset Source
 
 - **Dataset**: Online Retail
-- **Source**: UCI Machine Learning Repository
+- **Source**: UCI Machine Learning Repository (https://archive.ics.uci.edu/dataset/352/online+retail)
 - **Timeframe**: December 2010 – December 2011
 - **Size**: ~541,909 transactions | 8 columns
 
