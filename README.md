@@ -64,9 +64,6 @@ How can an online retailer identify and segment its customers to improve retenti
 - Power BI (for optional dashboard visualization)
 - Git & GitHub for version control
 
-## 📂 Project Structure
-
-
 ## 📌 Future Work
 
 - Extend to time-based cohort analysis
