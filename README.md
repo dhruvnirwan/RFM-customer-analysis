@@ -1,4 +1,4 @@
-# 🛒 Online Retail Data Analysis & Customer Segmentation using RFM and Clustering
+# 🛒 Online Retail Data Analysis & Customer Segmentation using RFM
 
 ## 📍 Project Overview
 
