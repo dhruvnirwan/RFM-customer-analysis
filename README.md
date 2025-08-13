@@ -78,3 +78,13 @@ How can an online retailer identify and segment its customers to improve retenti
 - scikit-learn documentation for clustering algorithms
 
 ---
+
+## 🙋‍♂️ About Me
+
+**👨‍💼 Dhruv Nirwan**  
+Data Analyst | Power BI | SQL | Excel | Python | Snowflake | Cloud (AWS, Azure, GCP)  | Google Collab | Prompt Engineering
+
+🔗 [LinkedIn](https://www.linkedin.com/in/dhruv-nirwan)  
+📧 dhruvnirwan836@gmail.com  
+📂 [GitHub: dhruvnirwan](https://github.com/dhruvnirwan)
+
